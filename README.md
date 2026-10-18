@@ -2,8 +2,6 @@
 
 A UX concept case study: redesigning three Phantom wallet flows around one theme — **trust & clarity**. Designed in Figma in 2 days, from real app screenshots.
 
-> Built for Superteam Earn's [_Redesign Your Favourite App on Solana_](https://superteam.fun/earn/listing/redesign-your-favourite-app-on-solana) bounty (1,500 USDC). The listing turned out to be a regional (India-only) listing, so this lives on as a portfolio case study.
-
 🔗 **[Open the Figma file](https://www.figma.com/design/c2gu4QmGVCGGuOY4xGgeSV/Phantom-Redesign-%E2%80%94-Redesign-Bounty)** — before/after screens for every feature, mobile + desktop variations, with the design rationale written under each.
 
 ## The three features
